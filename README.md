@@ -13,3 +13,4 @@
 - google sheet 使用紀錄
 - 會計模板完成，並以[表單化](https://docs.google.com/forms/d/12KEeMnarMmng6nI-hPCp11stXCddDLpqoGZDk_HcufY/edit?usp=sharing)與雲端化，影片一起附上
 - python 數組與列表冒號靈活運用
+- 第三份op2
